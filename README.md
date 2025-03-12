@@ -18,10 +18,9 @@ Bike-Sharing-Dashboard/
 │   │── Readme.txt
 │   │── day.csv
 │   │── hour.csv
-│   │── Notebook.ipynb
-│   │── README.md
-│
+│── Notebook.ipynb
 │── requirements.txt
+│── README.md
 ```
 
 ## 📦 Setup Environment - Anaconda
